@@ -1,4 +1,4 @@
-package com.credify.backend;
+package com.credify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
